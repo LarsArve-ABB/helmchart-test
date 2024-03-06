@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: your-hello-world-image
+  repository: hello-world
   pullPolicy: IfNotPresent
   tag: "latest"
 
