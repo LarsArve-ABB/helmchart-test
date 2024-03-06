@@ -1,0 +1,10 @@
+replicaCount: 2
+
+image:
+  repository: your-hello-world-image
+  pullPolicy: IfNotPresent
+  tag: "latest"
+
+service:
+  type: NodePort
+  port: 80

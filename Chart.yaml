@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-hello-world-chart
+description: A Helm chart for Kubernetes to deploy a Hello World application
+version: 0.1.0
