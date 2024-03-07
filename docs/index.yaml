@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  my-hello-world-chart:
+  - apiVersion: v2
+    created: "2024-03-07T08:55:40.403108718Z"
+    description: A Helm chart for Kubernetes to deploy a Hello World application
+    digest: 53f0e0cb1bbe50997725829eec122c1a3dccf2c0c21bff16356bf9dade21b294
+    name: my-hello-world-chart
+    urls:
+    - my-hello-world-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-07T08:55:40.400367686Z"
